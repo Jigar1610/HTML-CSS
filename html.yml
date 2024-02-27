@@ -1,0 +1,38 @@
+<title> - this tag is used for page title
+<a href= "website",target="_blank", title="Go to Google"> - 
+<img src="source of image" , alt="alternataive source if images not available">
+* src - make sure you can copy relative path (if you have any images in computer)not a only path
+* px vs % - when you choose px for height and width your image is stick when you scrool down and up but when you choose % your image is not stick there.
+<ul> - unorder list 
+<ol> - order list 
+* <li value = "3" - your order start from the number 3>
+* <h1 style = "property">
+* for choose colour use colour hunt website online 
+* <video style = "width: 100%:'' autoplay> - your video play in automatic or if you choose autoplay controls then your bideo have controller below.
+       if you choose loop then your video finished in time and then start automatic again.
+     <source src="video.mp4" type="where it is"> - source is singular tag so does not require closing tag.
+* <audio same as video>
+* <form tag have two primary attribute action and method>
+   <form action= "url when the data send" method="post or get">
+* <label = used to place a textual caption for a form element>
+  <label for ="name or require id of input element">name</label>
+  <input type="text id="name">
+* <input type ="text" id="name">
+* <label for="gender">I am </label>
+   <select name="gender" id="gender">
+   <option value="male">male</option>
+   <option value ="female">Female</option>
+* placeholder - this attribute use for stick any information
+* textarea - this attributes use for write a name, comment, and feedback
+  <textarea name="about" id="about">
+*
+
+
+
+
+
+
+
+
+
+
